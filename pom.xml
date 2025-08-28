@@ -35,10 +35,9 @@
 	</developers>
 
 	<scm>
-		<connection>scm:git:https://github.com/iminghe/no-bug.git</connection>
-		<developerConnection>scm:git:https://github.com/iminghe/no-bug.git</developerConnection>
-		<tag>java </tag>
-		<url>https://github.com/iminghe/no-bug</url>
+		<connection>scm:git:https://github.com/yshhuang/easyj.git</connection>
+		<developerConnection>scm:git:https://github.com/yshhuang/easyj.git</developerConnection>
+		<url>https://github.com/yshhuang/easyj</url>
 	</scm>
 
 	<properties>

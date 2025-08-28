@@ -21,10 +21,10 @@
 		<developer />
 	</developers>
 	<scm>
-		<connection>scm:git:https://github.com/iminghe/no-bug.git</connection>
-		<developerConnection>scm:git:https://github.com/iminghe/no-bug.git</developerConnection>
+		<connection>scm:git:https://github.com/yshhuang/easyj.git</connection>
+		<developerConnection>scm:git:https://github.com/yshhuang/easyj.git</developerConnection>
 		<tag>java </tag>
-		<url>https://github.com/iminghe/no-bug</url>
+		<url>https://github.com/yshhuang/easyj</url>
 	</scm>
 	<properties>
 		<java.version>21</java.version>
